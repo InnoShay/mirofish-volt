@@ -1,0 +1,302 @@
+[
+  {
+    "user_id": 0,
+    "agent_id": 0,
+    "user_name": null,
+    "name": "alex_early_dev",
+    "bio": "Staff Systems Engineer | Neovim & Rust purist | Building distributed queues.",
+    "created_at": "2026-11-18 20:42:21.292617",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 1,
+    "agent_id": 1,
+    "user_name": null,
+    "name": "priya_productivity",
+    "bio": "Senior Product Manager | Obsessed with flow state, Cal Newport, and zero-friction execution.",
+    "created_at": "2026-11-18 20:42:21.323097",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 2,
+    "agent_id": 2,
+    "user_name": null,
+    "name": "dave_budget_freelance",
+    "bio": "Independent Web & Mobile Developer | Billed 15,000+ hours across 8 years of freelancing.",
+    "created_at": "2026-11-18 20:42:21.347037",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 3,
+    "agent_id": 3,
+    "user_name": null,
+    "name": "elena_early_adopter",
+    "bio": "AI Researcher & LLM Fine-tuner | Open-source hacker | Exploring autonomous agent workflows.",
+    "created_at": "2026-11-18 20:42:21.369657",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 4,
+    "agent_id": 4,
+    "user_name": null,
+    "name": "martin_skeptical_eng",
+    "bio": "Principal Infrastructure & Reliability Engineer | 18 years in production systems.",
+    "created_at": "2026-11-18 20:42:21.394137",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 5,
+    "agent_id": 5,
+    "user_name": null,
+    "name": "sarah_exp_lead",
+    "bio": "Staff Engineer & Team Lead | Mentoring engineers | Passionate about equitable team rewards.",
+    "created_at": "2026-11-18 20:42:21.428097",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 6,
+    "agent_id": 6,
+    "user_name": null,
+    "name": "marcus_founder",
+    "bio": "Founder & CEO @ FinFlow (14 people, Seed) | Moving fast, hiring high-agency talent.",
+    "created_at": "2026-11-18 20:42:21.468057",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 7,
+    "agent_id": 7,
+    "user_name": null,
+    "name": "karen_agency_owner",
+    "bio": "Managing Partner @ VectorStudio | 22 designers & devs delivering custom software.",
+    "created_at": "2026-11-18 20:42:21.500757",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 8,
+    "agent_id": 8,
+    "user_name": null,
+    "name": "tariq_ops_manager",
+    "bio": "Head of People & Ops | Scaling remote tech teams across EMEA | Compliance & HR systems.",
+    "created_at": "2026-11-18 20:42:21.525717",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 9,
+    "agent_id": 9,
+    "user_name": null,
+    "name": "chen_tech_director",
+    "bio": "VP Engineering | 65 engineers across 6 squads | Cloud architecture & delivery governance.",
+    "created_at": "2026-11-18 20:42:21.554757",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 10,
+    "agent_id": 10,
+    "user_name": null,
+    "name": "laura_enterprise_buyer",
+    "bio": "IT Procurement & Enterprise Vendor Management | Fortune 500 tech stack oversight.",
+    "created_at": "2026-11-18 20:42:21.580077",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 11,
+    "agent_id": 11,
+    "user_name": null,
+    "name": "ananya_smallbiz_owner",
+    "bio": "Founder @ SparkGrowth | 10 remote marketers & developers scaling D2C brands.",
+    "created_at": "2026-11-18 20:42:21.616197",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 12,
+    "agent_id": 12,
+    "user_name": null,
+    "name": "jason_frontend_dev",
+    "bio": "Frontend Architect | Next.js, React 19, Tailwind CSS | Pixel perfection and animation polish.",
+    "created_at": "2026-11-18 20:42:21.640377",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 13,
+    "agent_id": 13,
+    "user_name": null,
+    "name": "chloe_product_designer",
+    "bio": "Lead Product Designer | Design Systems & User Research | Turning ambiguity into simple interfaces.",
+    "created_at": "2026-11-18 20:42:21.667377",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 14,
+    "agent_id": 14,
+    "user_name": null,
+    "name": "vikram_product_mgr",
+    "bio": "Lead TPM | Aligning engineering velocity with quarterly OKRs | B2B Infrastructure.",
+    "created_at": "2026-11-18 20:42:21.694197",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 15,
+    "agent_id": 15,
+    "user_name": null,
+    "name": "lucas_junior_dev",
+    "bio": "Junior Backend Dev | Go, Node.js, SQL | Learning microservices and cloud deployment.",
+    "created_at": "2026-11-18 20:42:21.717177",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 16,
+    "agent_id": 16,
+    "user_name": null,
+    "name": "rachel_marketing_lead",
+    "bio": "Growth Marketing Lead | Demand gen, SEO, viral acquisition loops for developer tools.",
+    "created_at": "2026-11-18 20:42:21.748017",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 17,
+    "agent_id": 17,
+    "user_name": null,
+    "name": "ben_senior_backend",
+    "bio": "Senior Backend Engineer | Kafka, Cassandra, Kubernetes | Building fault-tolerant data pipelines.",
+    "created_at": "2026-11-18 20:42:21.775797",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 18,
+    "agent_id": 18,
+    "user_name": null,
+    "name": "sam_contractor",
+    "bio": "DevOps Contractor | Terraform, AWS, GCP, CI/CD pipelines | Billing high hourly rates.",
+    "created_at": "2026-11-18 20:42:21.812277",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 19,
+    "agent_id": 19,
+    "user_name": null,
+    "name": "gordon_privacy_advocate",
+    "bio": "Digital Rights & Privacy Advocate | Open source contributor | Anti-surveillance activist.",
+    "created_at": "2026-11-18 20:42:21.840897",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 20,
+    "agent_id": 20,
+    "user_name": null,
+    "name": "nadia_ai_skeptic",
+    "bio": "AI Alignment & Safety Researcher | Author on LLM evaluation brittleness and benchmark hacking.",
+    "created_at": "2026-11-18 20:42:21.894957",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 21,
+    "agent_id": 21,
+    "user_name": null,
+    "name": "felix_anti_switch",
+    "bio": "Staff Architect | 20 years maintaining boring technology | Resisting tool sprawl since 2005.",
+    "created_at": "2026-11-18 20:42:21.927597",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 22,
+    "agent_id": 22,
+    "user_name": null,
+    "name": "raj_price_sensitive",
+    "bio": "Bootstrapped Founder @ MicroOps | Profitable, zero VC funding | Guarding unit economics.",
+    "created_at": "2026-11-18 20:42:21.959037",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 23,
+    "agent_id": 23,
+    "user_name": null,
+    "name": "claire_competitor_loyal",
+    "bio": "Certified Agile Coach & Scrum Master | 10+ years optimizing enterprise Jira & Linear workflows.",
+    "created_at": "2026-11-18 20:42:21.982617",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 24,
+    "agent_id": 24,
+    "user_name": null,
+    "name": "victor_critical_analyst",
+    "bio": "Principal Analyst @ TechFutures | 25 years covering enterprise HCM, developer platforms & workforce tech.",
+    "created_at": "2026-11-18 20:42:22.009317",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 25,
+    "agent_id": 25,
+    "user_name": null,
+    "name": "simon_tech_creator",
+    "bio": "Host @ DevFlow Podcast | Reviewing dev tools, CLI toys, and modern software craft for 120k subs.",
+    "created_at": "2026-11-18 20:42:22.033377",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 26,
+    "agent_id": 26,
+    "user_name": null,
+    "name": "maya_community_builder",
+    "bio": "Managing Director @ FoundersGuild | Community of 400+ early stage technical founders.",
+    "created_at": "2026-11-18 20:42:22.055997",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 27,
+    "agent_id": 27,
+    "user_name": null,
+    "name": "bret_product_reviewer",
+    "bio": "Author @ The SaaS Teardown | Deconstructing onboarding, UX, and monetization of 200+ products.",
+    "created_at": "2026-11-18 20:42:22.081737",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 28,
+    "agent_id": 28,
+    "user_name": null,
+    "name": "hannah_industry_analyst",
+    "bio": "Senior Researcher @ Oxford Institute for the Future of Work | Author on Remote Collaboration & Metrics.",
+    "created_at": "2026-11-18 20:42:22.102857",
+    "num_followings": 0,
+    "num_followers": 0
+  },
+  {
+    "user_id": 29,
+    "agent_id": 29,
+    "user_name": null,
+    "name": "leo_tech_consultant",
+    "bio": "Principal Consultant @ Rossi Advisory | Advising mid-market CEOs on technology pivots & modern stacks.",
+    "created_at": "2026-11-18 20:42:22.124937",
+    "num_followings": 0,
+    "num_followers": 0
+  }
+]

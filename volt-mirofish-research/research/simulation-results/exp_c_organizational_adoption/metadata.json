@@ -1,0 +1,14 @@
+{
+  "experiment_id": "exp_c_organizational_adoption",
+  "name": "Experiment C: Customer and Organizational Adoption",
+  "research_question": "What would need to be true for individuals or organizations to adopt Volt?",
+  "llm_model": "gemini-3.1-flash-lite",
+  "export_summary": {
+    "post": 3,
+    "comment": 26,
+    "like": 6,
+    "dislike": 0,
+    "trace": 107,
+    "user": 30
+  }
+}

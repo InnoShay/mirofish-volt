@@ -1,0 +1,14 @@
+{
+  "experiment_id": "exp_b_critical_evaluation",
+  "name": "Experiment B: Skeptical and Critical Evaluation",
+  "research_question": "What are the strongest reasons a potential customer might refuse to use Volt?",
+  "llm_model": "gemini-2.5-flash-lite",
+  "export_summary": {
+    "post": 7,
+    "comment": 11,
+    "like": 25,
+    "dislike": 0,
+    "trace": 157,
+    "user": 30
+  }
+}

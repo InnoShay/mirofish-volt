@@ -1,0 +1,38 @@
+[
+  {
+    "post_id": 1,
+    "user_id": 6,
+    "original_post_id": null,
+    "content": "We are evaluating Volt across our 14-person startup to replace timesheets and distribute our quarterly team bonus pool based on verified output. I need honest feedback from our engineering leads, junior devs, and ops: what would need to be true for you to trust this with your compensation?",
+    "quote_content": null,
+    "created_at": "2026-11-18 20:50:30.847431",
+    "num_likes": 6,
+    "num_dislikes": 0,
+    "num_shares": 0,
+    "num_reports": 0
+  },
+  {
+    "post_id": 2,
+    "user_id": 8,
+    "original_post_id": null,
+    "content": "From an operations and HR perspective, how do we handle the shift from fixed predictable pay to variable weightage points? What about legal employment contracts, junior career growth, and non-technical teammates who don't touch Git or CLI? What are the actual implementation barriers?",
+    "quote_content": null,
+    "created_at": "2026-11-18 20:50:30.896691",
+    "num_likes": 0,
+    "num_dislikes": 0,
+    "num_shares": 0,
+    "num_reports": 0
+  },
+  {
+    "post_id": 3,
+    "user_id": 9,
+    "original_post_id": null,
+    "content": "Examining the latest Volt architecture (Docs 14-16): they introduced dual scoring modes (time-based default vs VoltAI optional) and plain-language custom manager rubrics. Does this shift make it viable for teams of 8-20, or is the configuration burden still too high?",
+    "quote_content": null,
+    "created_at": "2026-11-18 20:50:30.948831",
+    "num_likes": 0,
+    "num_dislikes": 0,
+    "num_shares": 0,
+    "num_reports": 0
+  }
+]

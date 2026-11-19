@@ -1,0 +1,17 @@
+{
+  "experiment_id": "exp_a_organic_discovery",
+  "name": "Experiment A: Organic Product Discovery",
+  "research_question": "How might people naturally perceive Volt when they encounter it for the first time?",
+  "llm_model": "gemini-2.5-flash",
+  "rounds_executed": 10,
+  "elapsed_seconds": 174.3162920475006,
+  "timestamp": "2026-11-18T15:11:13Z",
+  "export_summary": {
+    "post": 2,
+    "comment": 18,
+    "like": 0,
+    "dislike": 0,
+    "trace": 164,
+    "user": 30
+  }
+}

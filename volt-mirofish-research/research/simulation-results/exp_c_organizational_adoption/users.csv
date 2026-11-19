@@ -1,0 +1,31 @@
+user_id,agent_id,user_name,name,bio,created_at,num_followings,num_followers
+0,0,,alex_early_dev,Staff Systems Engineer | Neovim & Rust purist | Building distributed queues.,2026-11-18 20:50:23.112831,0,0
+1,1,,priya_productivity,"Senior Product Manager | Obsessed with flow state, Cal Newport, and zero-friction execution.",2026-11-18 20:50:23.171511,0,0
+2,2,,dave_budget_freelance,"Independent Web & Mobile Developer | Billed 15,000+ hours across 8 years of freelancing.",2026-11-18 20:50:23.209491,0,0
+3,3,,elena_early_adopter,AI Researcher & LLM Fine-tuner | Open-source hacker | Exploring autonomous agent workflows.,2026-11-18 20:50:23.246511,0,0
+4,4,,martin_skeptical_eng,Principal Infrastructure & Reliability Engineer | 18 years in production systems.,2026-11-18 20:50:23.283171,0,0
+5,5,,sarah_exp_lead,Staff Engineer & Team Lead | Mentoring engineers | Passionate about equitable team rewards.,2026-11-18 20:50:23.305611,0,0
+6,6,,marcus_founder,"Founder & CEO @ FinFlow (14 people, Seed) | Moving fast, hiring high-agency talent.",2026-11-18 20:50:23.342631,0,0
+7,7,,karen_agency_owner,Managing Partner @ VectorStudio | 22 designers & devs delivering custom software.,2026-11-18 20:50:23.374071,0,0
+8,8,,tariq_ops_manager,Head of People & Ops | Scaling remote tech teams across EMEA | Compliance & HR systems.,2026-11-18 20:50:23.395371,0,0
+9,9,,chen_tech_director,VP Engineering | 65 engineers across 6 squads | Cloud architecture & delivery governance.,2026-11-18 20:50:23.416071,0,0
+10,10,,laura_enterprise_buyer,IT Procurement & Enterprise Vendor Management | Fortune 500 tech stack oversight.,2026-11-18 20:50:23.437491,0,0
+11,11,,ananya_smallbiz_owner,Founder @ SparkGrowth | 10 remote marketers & developers scaling D2C brands.,2026-11-18 20:50:23.465031,0,0
+12,12,,jason_frontend_dev,"Frontend Architect | Next.js, React 19, Tailwind CSS | Pixel perfection and animation polish.",2026-11-18 20:50:23.485431,0,0
+13,13,,chloe_product_designer,Lead Product Designer | Design Systems & User Research | Turning ambiguity into simple interfaces.,2026-11-18 20:50:23.506371,0,0
+14,14,,vikram_product_mgr,Lead TPM | Aligning engineering velocity with quarterly OKRs | B2B Infrastructure.,2026-11-18 20:50:23.528691,0,0
+15,15,,lucas_junior_dev,"Junior Backend Dev | Go, Node.js, SQL | Learning microservices and cloud deployment.",2026-11-18 20:50:23.549451,0,0
+16,16,,rachel_marketing_lead,"Growth Marketing Lead | Demand gen, SEO, viral acquisition loops for developer tools.",2026-11-18 20:50:23.579991,0,0
+17,17,,ben_senior_backend,"Senior Backend Engineer | Kafka, Cassandra, Kubernetes | Building fault-tolerant data pipelines.",2026-11-18 20:50:23.600811,0,0
+18,18,,sam_contractor,"DevOps Contractor | Terraform, AWS, GCP, CI/CD pipelines | Billing high hourly rates.",2026-11-18 20:50:23.620971,0,0
+19,19,,gordon_privacy_advocate,Digital Rights & Privacy Advocate | Open source contributor | Anti-surveillance activist.,2026-11-18 20:50:23.648211,0,0
+20,20,,nadia_ai_skeptic,AI Alignment & Safety Researcher | Author on LLM evaluation brittleness and benchmark hacking.,2026-11-18 20:50:23.698371,0,0
+21,21,,felix_anti_switch,Staff Architect | 20 years maintaining boring technology | Resisting tool sprawl since 2005.,2026-11-18 20:50:23.724291,0,0
+22,22,,raj_price_sensitive,"Bootstrapped Founder @ MicroOps | Profitable, zero VC funding | Guarding unit economics.",2026-11-18 20:50:23.755251,0,0
+23,23,,claire_competitor_loyal,Certified Agile Coach & Scrum Master | 10+ years optimizing enterprise Jira & Linear workflows.,2026-11-18 20:50:23.802291,0,0
+24,24,,victor_critical_analyst,"Principal Analyst @ TechFutures | 25 years covering enterprise HCM, developer platforms & workforce tech.",2026-11-18 20:50:23.823891,0,0
+25,25,,simon_tech_creator,"Host @ DevFlow Podcast | Reviewing dev tools, CLI toys, and modern software craft for 120k subs.",2026-11-18 20:50:23.860791,0,0
+26,26,,maya_community_builder,Managing Director @ FoundersGuild | Community of 400+ early stage technical founders.,2026-11-18 20:50:23.881851,0,0
+27,27,,bret_product_reviewer,"Author @ The SaaS Teardown | Deconstructing onboarding, UX, and monetization of 200+ products.",2026-11-18 20:50:23.909871,0,0
+28,28,,hannah_industry_analyst,Senior Researcher @ Oxford Institute for the Future of Work | Author on Remote Collaboration & Metrics.,2026-11-18 20:50:23.932431,0,0
+29,29,,leo_tech_consultant,Principal Consultant @ Rossi Advisory | Advising mid-market CEOs on technology pivots & modern stacks.,2026-11-18 20:50:23.960031,0,0
